@@ -1,0 +1,5 @@
+Web server-->API,Web service, db,
+Apache2--> web server--> handle http, https --> endpoints(url,ip)
+MySql--> RDBMS --> Database-->
+Php lib --> Server side lang--> busi logic 
+Phpmyadim --> Is a GUI to manage your Mysql Databases -->  web interface

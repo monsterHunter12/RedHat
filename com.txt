@@ -1,0 +1,20 @@
+Loops are one of the fundamental concepts of programming languages. Loops are handy when you want to run a series of commands a number of times until a particular condition is met.
+
+In scripting languages such as Bash, loops are useful for automating repetitive tasks. There are three basic loop constructs in Bash scripting, for loop , while loop, and until loop .
+
+This tutorial covers the basics of while loops in Bash. We’ll also show you how to use the break and continue statements to alter the flow of a loop.
+Bash while Loop
+
+The while loop is used to performs a given set of commands an unknown number of times as long as the given condition evaluates to true.
+
+The Bash while loop takes the following form:
+#!/bin/bash
+
+LINE=1
+
+while read -r CURRENT_LINE
+	do
+		echo "$LINE : $CURRENT_LINE"
+	((LINE++))
+done < ""
+Monday 20 June 2022 04:14:58 PM IST
