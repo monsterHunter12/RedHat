@@ -1,0 +1,1000 @@
+  105  which python
+  106  which python3.10
+  107  sudo nano hello_world.sh
+  108  sudo chmod +x hello_world.sh
+  109  ls -ltr
+  110  ./hello_world.sh
+  111  sudo nano hello_world.sh
+  112  ./hello_world.sh
+  113  sudo nano hello_world.sh
+  114  ./hello_world.sh
+  115  sudo nano hello_world.sh
+  116  ./hello_world.sh
+  117  sudo nano hello_world.sh
+  118  ./hello_world.sh
+  119  sudo nano hello_world.sh
+  120  ./hello_world.sh
+  121  sudo nano hello_world.sh
+  122  ./hello_world.sh
+  123  sudo nano hello_world.sh
+  124  ./hello_world.sh
+  125  sudo nano hello_world.sh
+  126  ./hello_world.sh
+  127  sudo nano hello_world.sh
+  128  ./hello_world.sh
+  129  sudo nano hello_world.sh
+  130  ./hello_world.sh
+  131  89+11
+  132  (89+11)
+  133  sudo nano hello_world.sh
+  134  ./hello_world.sh
+  135  sudo nano hello_world.sh
+  136  ./hello_world.sh
+  137  sudo nano hello_world.sh
+  138  ./hello_world.sh
+  139  sudo nano hello_world.sh
+  140  ./hello_world.sh
+  141  sudo nano hello_world.sh
+  142  ./hello_world.sh
+  143  sudo nano hello_world.sh
+  144  nano add.sh
+  145  ls
+  146  chmod +x add.sh
+  147  ls
+  148  ./add.sh
+  149  nano add.sh
+  150  ./add.sh
+  151  nano add.sh
+  152  nano condi.sh
+  153  chmod +x condi.sh
+  154  ./condi.sh
+  155  nano condi.sh
+  156  ./condi.sh
+  157  nano condi.sh
+  158  ./condi.sh
+  159  nano condi.sh
+  160  touch triangle.sh
+  161  nano triangle.sh
+  162  chmod +x triangle.sh
+  163  ./triangle.sh
+  164  nano triangle.sh
+  165  ./triangle.sh
+  166  nano triangle.sh
+  167  ./triangle.sh
+  168  nano triangle.sh
+  169  ./triangle.sh
+  170  nano triangle.sh
+  171  ./triangle.sh
+  172  nano triangle.sh
+  173  ./triangle.sh
+  174  nano triangle.sh
+  175  ./triangle.sh
+  176  nano triangle.sh
+  177  ./triangle.sh
+  178  nano triangle.sh
+  179  ./triangle.sh
+  180  nano triangle.sh
+  181  ./triangle.sh
+  182  nano for_loop.sh
+  183  chmod +x for_loop.sh
+  184  ./for_loop.sh
+  185  nano for_loop.sh
+  186  ./for_loop.sh
+  187  nano for_loop.sh
+  188  ./for_loop.sh
+  189  nano for_loop.sh
+  190  ./for_loop.sh
+  191  nano for_loop.sh
+  192  ./for_loop.sh
+  193  nano for_loop.sh
+  194  ./for_loop.sh
+  195  nano for_loop.sh
+  196  clear
+  197  ls
+  198  touch data.txt
+  199  nano data.txt
+  200  nano read_file.txt
+  201  chmod +x read_file.sh
+  202  ./read_file.sh
+  203  nano read_file.sh
+  204  ./read_file.sh
+  205  nano read_file.sh
+  206  ./read_file.sh
+  207  nano read_file.sh
+  208  cat data.txt
+  209  ./read_file.sh
+  210  nano read_file.sh
+  211  df -h | grep tmpfs
+  212  nano command_in_shell.sh
+  213  chmod +x command_in_shell.sh
+  214  ./command_in_shell.sh
+  215  nano command_in_shell.sh
+  216  ./command_in_shell.sh
+  217  nano command_in_shell.sh
+  218  ./command_in_shell.sh
+  219  nano command_in_shell.sh
+  220  ./command_in_shell.sh
+  221  nano command_in_shell.sh
+  222  ./command_in_shell.sh
+  223  nano args.sh
+  224  chmod +x args.sh
+  225  ./args.sh Tony Bony Mony Sony
+  226  nano args.sh
+  227  crontab -l
+  228  cd ~
+  229  cd /var/spool/cron
+  230  ls
+  231  ls -ltr
+  232  cd crontabs
+  233  sudo -i
+  234  ls
+  235  nano back_up.sh
+  236  ./back_up.sh
+  237  nano back_up.sh
+  238  ./back_up.sh
+  239  nano back_up.sh
+  240  ./back_up.sh
+  241  nano back_up.sh
+  242  ./back_up.sh
+  243  nano back_up.sh
+  244  nano great_3.sh
+  245  chmod +x great_3.sh
+  246  ./great_3.sh
+  247  nano great_3.sh
+  248  ./great_3.sh
+  249  nano great_3.sh
+  250  ./great_3.sh
+  251  nano great_3.sh
+  252  ./great_3.sh
+  253  nano great_3.sh
+  254  nano odd_even.sh
+  255  chmod +x odd_even.sh
+  256  ./odd_even.sh
+  257  nano odd_even.sh
+  258  ./odd_even.sh
+  259  nano odd_even.sh
+  260  ./odd_even.sh
+  261  nano odd_even.sh
+  262  nano reverse_string.sh
+  263  nano nest_for.sh
+  264  chmod +x nest_for.sh
+  265  ./nest_for.sh
+  266  nano nest_for.sh
+  267  ./nest_for.sh
+  268  nano nest_for.sh
+  269  ./nest_for.sh
+  270  nano nest_for.sh
+  271  ./nest_for.sh
+  272  nano nest_for.sh
+  273  ./nest_for.sh
+  274  nano nest_for.sh
+  275  nano pattern.txt
+  276  nano until.sh
+  277  nano nest_for.sh
+  278  nano until.sh
+  279  nano mkdir.sh
+  280  chmod +x mkdir.sh
+  281  ./mkdir.sh
+  282  nano mkdir.sh
+  283  ./mkdir.sh
+  284  nano mkdir.sh
+  285  ./mkdir.sh
+  286  ls
+  287  ./mkdir.sh
+  288  ls
+  289  nano mkdir.sh
+  290  ./mkdir.sh
+  291  ls
+  292  nano mkdir.sh
+  293  sudo snap install telegram-desktop
+  294  ls
+  295  python3 app2.py
+  296  LS
+  297  ls
+  298  nano fact.sh
+  299  chmod +x fact.sh
+  300  ./fact.sh
+  301  nano fact.sh
+  302  ./fact.sh
+  303  nano fact.sh
+  304  nano sum_of_ele.sh
+  305  chmod +x sum_of_ele.sh
+  306  ./sum_of_ele.sh
+  307  nano sum_of_ele.sh
+  308  ./sum_of_ele.sh
+  309  nano sum_of_ele.sh
+  310  ./sum_of_ele.sh
+  311  nano sum_of_ele.sh
+  312  nano input_arr_usr.sh
+  313  chmod +x input_arr_usr.sh
+  314  ./input_arr_usr.sh
+  315  nano input_arr_usr.sh
+  316  ./input_arr_usr.sh
+  317  nano input_arr_usr.sh
+  318  ./input_arr_usr.sh
+  319  nano input_arr_usr.sh
+  320  ./input_arr_usr.sh
+  321  nano input_arr_usr.sh
+  322  ls
+  323  nano input_pwd.sh
+  324  nano input_arr_usr.sh
+  325  nano fact.sh
+  326  nano input_pwd.sh
+  327  chmod +x input_pwd.sh
+  328  ./input_pwd.sh
+  329  nano input_pwd.sh
+  330  ./input_pwd.sh
+  331  nano input_pwd.sh
+  332  ./input_pwd.sh
+  333  nano input_pwd.sh
+  334  ./input_pwd.sh
+  335  nano input_pwd.sh
+  336  ./input_pwd.sh
+  337  nano input_pwd.sh
+  338  ./input_pwd.sh
+  339  nano input_pwd.sh
+  340  ./input_pwd.sh
+  341  nano input_pwd.sh
+  342  ./input_pwd.sh
+  343  squeue -u kali
+  344  nano input_pwd.sh
+  345  ./input_pwd.sh
+  346  ps -aux | awk '{print $5}'
+  347  ps -aux | awk '{print $4}'
+  348  ps -aux | awk '{print $3}'
+  349  ps -aux | awk '{print $2}'
+  350  ps -aux | awk '{print $6}'
+  351  ps -aux | awk '{print $9}'
+  352  ps -aux | awk '{print $10}'
+  353  nano input_pwd.sh
+  354  ./input_pwd.sh
+  355  nano input_pwd.sh
+  356  ./input_pwd.sh
+  357  nano input_pwd.sh
+  358  ./input_pwd.sh
+  359  nano input_pwd.sh
+  360  ./input_pwd.sh
+  361  nano input_pwd.sh
+  362  ./input_pwd.sh
+  363  nano input_pwd.sh
+  364  ./input_pwd.sh
+  365  clear
+  366  nano input_pwd.sh
+  367  ./input_pwd.sh
+  368  nano input_pwd.sh
+  369  clear
+  370  ./input_pwd.sh
+  371  nano input_pwd.sh
+  372  nano create_user.sh
+  373  chmod +x create_usr.sh
+  374  chmod +x create_user.sh
+  375  ./create_user.sh
+  376  sudo -i
+  377  ls
+  378  (( (RANDOM % 6 ) + 1 ))
+  379  nano random.sh
+  380  chmod +x random.sh
+  381  ./random.sh
+  382  nano random.sh
+  383  ./random.sh
+  384  nano random.sh
+  385  ./random.sh
+  386  nano random.sh
+  387  clear
+  388  ls
+  389  nano random.sh
+  390  nano variable.sh
+  391  chmod +x variable.sh
+  392  ./variable.sh
+  393  chmod +x variable.sh
+  394  nano variable.sh
+  395  ./variable.sh
+  396  nano variable.sh
+  397  ./variable.sh
+  398  nano variable.sh
+  399  ./variable.sh
+  400  nano variable.sh
+  401  ./variable.sh
+  402  nano variable.sh
+  403  ./variable.sh
+  404  nano variable.sh
+  405  ./variable.sh
+  406  nano variable.sh
+  407  ./variable.sh
+  408  nano variable.sh
+  409  ./variable.sh
+  410  nano variable.sh
+  411  ./variable.sh
+  412  nano variable.sh
+  413  ./variable.sh
+  414  nano variable.sh
+  415  ./variable.sh
+  416  nano variable.sh
+  417  ./variable.sh
+  418  nano variable.sh
+  419  ./variable.sh
+  420  nano variable.sh
+  421  ./variable.sh 12 13 14 15
+  422  nano variable.sh
+  423  ./variable.sh 12 13 14 15
+  424  nano variable.sh
+  425  ./variable.sh 12 13 14 15
+  426  nano variable.sh
+  427  ./variable.sh 12 13 14 15
+  428  nano variable.sh
+  429  ./variable.sh 12 13 14 15
+  430  nano variable.sh
+  431  nano bg_process.sh
+  432  ls
+  433  nano bg_process.sh
+  434  chmod +x bg_process.sh
+  435  ./bg_process.sh
+  436  nano bg_process.sh
+  437  ./bg_process.sh
+  438  nano bg_process.sh
+  439  nano string.sh
+  440  chmod +x string.sh
+  441  ./string.sh
+  442  nano string.sh
+  443  ./string.sh
+  444  nano string.sh
+  445  ./string.sh
+  446  nano string.sh
+  447  ./string.sh
+  448  nano string.sh
+  449  ./string.sh
+  450  nano string.sh
+  451  ./string.sh
+  452  nano string.sh
+  453  ./string.sh
+  454  nano string.sh
+  455  ./string.sh
+  456  nano string.sh
+  457  ./string.sh
+  458  nano string.sh
+  459  ./string.sh
+  460  nano string.sh
+  461  ./string.sh
+  462  nano string.sh
+  463  ./string.sh
+  464  nano string.sh
+  465  ./string.sh
+  466  nano string.sh
+  467  ./string.sh
+  468  nano string.sh
+  469  ./string.sh
+  470  nano string.sh
+  471  ./string.sh
+  472  nano string.sh
+  473  ./string.sh
+  474  nano string.sh
+  475  ./string.sh
+  476  nano string.sh
+  477  ./string.sh
+  478  nano string.sh
+  479  ./string.sh
+  480  nano string.sh
+  481  ./string.sh
+  482  nano string.sh
+  483  ./string.sh
+  484  nano string.sh
+  485  ./string.sh
+  486  nano string.sh
+  487  ./string.sh
+  488  nano string.sh
+  489  ./string.sh
+  490  nano string.sh
+  491  ./string.sh
+  492  nano string.sh
+  493  ./string.sh
+  494  nano string.sh
+  495  ./string.sh
+  496  nano string.sh
+  497  ./string.sh
+  498  nano string.sh
+  499  ./string.sh
+  500  nano string.sh
+  501  ./string.sh
+  502  nano string.sh
+  503  ./string.sh
+  504  nano string.sh
+  505  ./string.sh
+  506  ./string.sh 12 13
+  507  nano string.sh
+  508  ./string.sh 12 13
+  509  nano string.sh
+  510  ./string.sh 12 13
+  511  nano string.sh
+  512  ./string.sh
+  513  nano string.sh
+  514  ./string.sh
+  515  nano string.sh
+  516  ./string.sh
+  517  nano string.sh
+  518  ./string.sh
+  519  nano string.sh
+  520  grep foo < names.txt
+  521  ls
+  522  grep foo < pattern.txt
+  523  cat data.txt
+  524  grep Loops < data.txt
+  525  cat data.txt read_file.txt > com.txt
+  526  ls
+  527  cat com.txt
+  528  date >> com.txt
+  529  cat com.txt
+  530  grep Loops << com.txt
+  531  echo `date` `whoami` >> log
+  532  ls
+  533  cat log
+  534  echo $(date) $(whoami) >> log
+  535  cat log
+  536  nano func.sh
+  537  chmod +x func.sh 24
+  538  chmod +x func.sh 
+  539  ./func.sh 24
+  540  nano func.sh
+  541  ./func.sh 24
+  542  nano func.sh
+  543  ./func.sh 24
+  544  nano func.sh
+  545  ./func.sh 24
+  546  nano func.sh
+  547  ./func.sh 24
+  548  nano func.sh
+  549  ./func.sh 24
+  550  nano func.sh
+  551  ./func.sh 24
+  552  nano func.sh
+  553  ./func.sh 24
+  554  ./func.sh 5
+  555  nano func.sh
+  556  ./func.sh 5
+  557  nano func.sh
+  558  ./func.sh 5
+  559  nano func.sh
+  560  ./func.sh 5 6
+  561  nano func.sh
+  562  ./func.sh 5 6
+  563  nano func.sh
+  564  ./func.sh 5 6
+  565  nano func.sh
+  566  ./func.sh 5
+  567  nano func.sh
+  568  ./func.sh 5
+  569  nano func.sh
+  570  ./func.sh 5
+  571  nano func.sh
+  572  ./func.sh 5
+  573  nano func.sh
+  574  ./func.sh 5
+  575  nano func.sh
+  576  ./func.sh 5
+  577  nano func.sh
+  578  nano env_req.txt
+  579  sudo apt-get update -y
+  580  sudo apt-get upgrade
+  581  sudo apt serach libminizip1
+  582  sudo apt search libminizip1
+  583  sudo apt-get install libminizip1
+  584  apt --fix-broken install
+  585  sudo apt --fix-broken install
+  586  sudo apt-get upgrade
+  587  sudo apt-get upgrade -y
+  588  sudo apt search apache
+  589  sudo apt-get install apache2
+  590  sudo apt-get install apache2-doc apache2-mpm-prefork apache2-utils libexpat1 ssl-cert -y
+  591  apt search apacha2 mpm prefork
+  592  apt search mpm prefork
+  593  sudo apt-get install apache2-doc apache2-utils libexpat1 ssl-cert -y
+  594  apt search php
+  595  apt search php-curl
+  596  sudo apt-get install php8.1 php-curl php-pear 
+  597  ls
+  598  nano color.sh
+  599  sudo chmod +x color.sh
+  600  ./color.sh
+  601  nano color.sh
+  602  ./color.sh
+  603  nano color.sh
+  604  ./color.sh
+  605  nano color.sh
+  606  ./color.sh
+  607  nano color.sh
+  608  ./color.sh
+  609  nano color.sh
+  610  ./color.sh
+  611  nano color.sh
+  612  ./color.sh
+  613  nano color.sh
+  614  ./color.sh
+  615  nano color.sh
+  616  ./color.sh
+  617  nano color.sh
+  618  ./color.sh
+  619  nano color.sh
+  620  ./color.sh
+  621  nano color.sh
+  622  ./color.sh
+  623  nano color.sh
+  624  ./color.sh
+  625  nano color.sh
+  626  ./color.sh
+  627  ls
+  628  nana progress_bar.sh
+  629  nano progress_bar.sh
+  630  chmod +x progress_bar.sh
+  631  ./progress_bar.sh 100 40
+  632  ./progress_bar.sh 17
+  633  nano progress_bar.sh
+  634  ./progress_bar.sh 17 100
+  635  nano progress_bar2.sh
+  636  chmod +x progress_bar2.sh
+  637  ./progress_bar2.sh 17
+  638  nano progress_bar2.sh
+  639  ./progress_bar2.sh
+  640  ./progress_bar2.sh 1
+  641  ./progress_bar2.sh 10
+  642  cut -d: -f1 /etc/passwd
+  643  userdel test123
+  644  sudo userdel test123
+  645  sudo userdel test_user778787
+  646  sudo userdel user3242432423
+  647  sudo userdel werwerewr
+  648  cut -d: -f1 /etc/passwd
+  649  sudo apt-get install openssl
+  650  ls
+  651  openssl --help
+  652  man openssl
+  653  echo $1 | openssl aes-256-ecb -a -salt -pass pass:Password@123
+  654  echo $1 | openssl rc4 -a -salt -pass pass:Password@123
+  655  ls
+  656  clear
+  657  nano openssl_encrpt.sh
+  658  chmod +x openssl_encrpt.sh
+  659  ./openssl_encrpt.sh Password@2023
+  660  openssl --help
+  661  chmod +x openssl_encrpt.sh
+  662  nano openssl_encrpt.sh
+  663  ./openssl_encrpt.sh Password@2023
+  664  ./openssl_encrpt.sh Password@2022
+  665  ./openssl_encrpt.sh Password@123
+  666  nano openssl_encrpt.sh
+  667  ./openssl_encrpt.sh Password@123
+  668  nano openssl_encrpt.sh
+  669  clear
+  670  ls
+  671  ./progress_bar.sh
+  672  nano progress_bar.sh
+  673  nano install_lamp.sh
+  674  chmod +x install_lamp.sh
+  675  ./install_lamp.sh
+  676  ls
+  677  nano install_lamp.sh
+  678  ./install_lamp.sh
+  679  nano install_lamp.sh
+  680  ./install_lamp.sh
+  681  nano install_lamp.sh
+  682  nano progress_bar.sh
+  683  nano install_lamp.sh
+  684  nano progress_bar.sh
+  685  ./install_lamp.sh
+  686  nano progress_bar.sh
+  687  nano install_lamp.sh
+  688  ./install_lamp.sh
+  689  nano progress_bar.sh
+  690  nano install_lamp.sh
+  691  ./install_lamp.sh
+  692  clear
+  693  nano install_lamp.sh
+  694  ./install_lamp.sh
+  695  nano install_lamp.sh
+  696  ./install_lamp.sh
+  697  nano install_lamp.sh
+  698  clear
+  699  nano switch_case.sh
+  700  chmod +x switch_case.sh
+  701  ./switch_case.sh
+  702  nano switch_case.sh
+  703  nano install_lamp.sh
+  704  ./install_lamp.sh
+  705  nano install_lamp.sh
+  706  ./install_lamp.sh
+  707  nano install_lamp.sh
+  708  ./install_lamp.sh
+  709  nano install_lamp.sh
+  710  ./install_lamp.sh
+  711  nano install_lamp.sh
+  712  clear
+  713  nano install_lamp.sh
+  714  sudo apt install mc
+  715  mc
+  716  clear
+  717  10
+  718  cd ~
+  719  ls
+  720  cd ../../
+  721  ld
+  722  ls
+  723  cd var
+  724  ls
+  725  cd log
+  726  ls
+  727  cd apache2
+  728  ls
+  729  tail 30 error.log
+  730  cd ~
+  731  cd /usr
+  732  cd lib
+  733  ls
+  734  cd cgi-bin
+  735  ls
+  736  sudo nano demo.sh
+  737  sudo nano demo.cgi
+  738  sudo service apache2 restart
+  739  sudo service apache2 status
+  740  cd ~
+  741  cd /var/log/apache2
+  742  ls
+  743  tail 10 error.log
+  744  nano install_lamp.sh
+  745  sudo apt-get install git
+  746  git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
+  747  cd set
+  748  pip3 install -r requirements.txt
+  749  set
+  750  cd ../
+  751  ls
+  752  cd set
+  753  ls
+  754  cat README.md
+  755  clear
+  756  ls
+  757  cd setoolkit
+  758  ls
+  759  ./set-update
+  760  ls
+  761  cd ../
+  762  ls
+  763  ifconfig
+  764  ls
+  765  nano color.sh
+  766  nano command_in_shell.sh
+  767  clear
+  768  sudo apt-get install apache2
+  769  a2enmod cgid
+  770  sudo a2enmod cgid
+  771  sudo systemstl restart apache2
+  772  sudo systemctl restart apache2
+  773  sudo systemctl status apache2
+  774  sudo service apache2 restart
+  775  sudo service apache2 status
+  776  cd /usr/lib/cgi-bin
+  777  ls
+  778  history
+  779  nano demo.cgi
+  780  sudo nano demo.cgi
+  781  chmod 755 demo.cgi
+  782  sudo chmod 755 demo.cgi
+  783  sudo service apache2 status
+  784  ./demo.cgi
+  785  sudo nano demo.cgi
+  786  ps -aux
+  787  ls
+  788  sudo nano demo.cgi
+  789  sudo chmod 755 demo.sh
+  790  ls
+  791  sudo chmod 705 demo.sh
+  792  sudo chmod 705 demo.cgi
+  793  sudo nano demo.cgi
+  794  sudo service apache2 restart
+  795  sudo service apache2 status
+  796  cd ~
+  797  ls
+  798  nano lamp_installer.sh
+  799  chmod 755 lamp_installer.sh
+  800  chmod +x lamp_installer.sh
+  801  ./lamp_installer.sh
+  802  nano lamp_installer.sh
+  803  ./lamp_installer.sh
+  804  nano lamp_installer.sh
+  805  ./lamp_installer.sh
+  806  nano lamp_installer.sh
+  807  ./lamp_installer.sh
+  808  nano lamp_installer.sh
+  809  ./lamp_installer.sh
+  810  nano lamp_installer.sh
+  811  ./lamp_installer.sh
+  812  nano lamp_installer.sh
+  813  ./lamp_installer.sh
+  814  nano lamp_installer.sh
+  815  ./lamp_installer.sh
+  816  ls
+  817  ./lamp_installer.sh
+  818  nano lamp_installer.sh
+  819  ls
+  820  cat log
+  821  nano error.log
+  822  ls
+  823  ./lamp_installer.sh
+  824  cat error.log
+  825  nano error.log
+  826  nano install.log
+  827  ls
+  828  nano lamp_installer.sh
+  829  nano user_management.sh
+  830  chmod +x user_management.sh
+  831  ./user_management.sh
+  832  clear
+  833  nano user_management.sh
+  834  ./user_management.sh
+  835  sudo ./user_management.sh
+  836  nano user_management.sh
+  837  sudo ./user_management.sh
+  838  nano user_management.sh
+  839  sudo ./user_management.sh
+  840  nano user_management.sh
+  841  ls -ltr
+  842  swapon -s
+  843  ls
+  844  cd shell_scripts
+  845  ls
+  846  nano mid_recap.sh
+  847  chmod +x mid_recap.sh
+  848  ./mid_recap.sh
+  849  nano mid_recap.sh
+  850  ./mid_recap.sh
+  851  nano mid_recap.sh
+  852  ./mid_recap.sh
+  853  nano mid_recap.sh
+  854  ./mid_recap.sh
+  855  nano mid_recap.sh
+  856  ./mid_recap.sh
+  857  nano mid_recap.sh
+  858  ./mid_recap.sh
+  859  nano mid_recap.sh
+  860  ./mid_recap.sh
+  861  nano mid_recap.sh
+  862  ./mid_recap.sh
+  863  nano mid_recap.sh
+  864  ./mid_recap.sh
+  865  nano mid_recap.sh
+  866  ./mid_recap.sh
+  867  nano mid_recap.sh
+  868  ./mid_recap.sh
+  869  nano mid_recap.sh
+  870  ./mid_recap.sh
+  871  nano mid_recap.sh
+  872  ./mid_recap.sh
+  873  nano mid_recap.sh
+  874  ./mid_recap.sh
+  875  nano mid_recap.sh
+  876  ./mid_recap.sh
+  877  nano mid_recap.sh
+  878  ./mid_recap.sh
+  879  nano mid_recap.sh
+  880  ./mid_recap.sh
+  881  nano mid_recap.sh
+  882  ./mid_recap.sh
+  883  nano mid_recap.sh
+  884  ./mid_recap.sh
+  885  nano mid_recap.sh
+  886  ./mid_recap.sh
+  887  nano mid_recap.sh
+  888  ./mid_recap.sh
+  889  nano mid_recap.sh
+  890  ./mid_recap.sh
+  891  nano mid_recap.sh
+  892  ./mid_recap.sh
+  893  nano mid_recap.sh
+  894  ./mid_recap.sh
+  895  nano mid_recap.sh
+  896  ./mid_recap.sh
+  897  nano mid_recap.sh
+  898  ./mid_recap.sh
+  899  nano mid_recap.sh
+  900  ./mid_recap.sh
+  901  nano mid_recap.sh
+  902  ./mid_recap.sh
+  903  nano mid_recap.sh
+  904  ./mid_recap.sh
+  905  nano mid_recap.sh
+  906  ./mid_recap.sh
+  907  nano mid_recap.sh
+  908  ./mid_recap.sh
+  909  nano mid_recap.sh
+  910  ./mid_recap.sh
+  911  nano mid_recap.sh
+  912  ./mid_recap.sh
+  913  nano mid_recap.sh
+  914  ./mid_recap.sh
+  915  nano mid_recap.sh
+  916  ./mid_recap.sh
+  917  nano mid_recap.sh
+  918  ./mid_recap.sh
+  919  nano mid_recap.sh
+  920  ./mid_recap.sh
+  921  nano mid_recap.sh
+  922  ./mid_recap.sh
+  923  nano mid_recap.sh
+  924  ./mid_recap.sh
+  925  nano mid_recap.sh
+  926  ./mid_recap.sh
+  927  nano mid_recap.sh
+  928  nano mid_recap.sh 11 12 13 14
+  929  ./mid_recap.sh 11 12 13 14
+  930  nano mid_recap.sh
+  931  ./mid_recap.sh 11
+  932  nano mid_recap.sh
+  933  ./mid_recap.sh 11
+  934  nano mid_recap.sh
+  935  ./mid_recap.sh 11
+  936  nano mid_recap.sh
+  937  ./mid_recap.sh 11
+  938  nano mid_recap.sh
+  939  ./mid_recap.sh 11
+  940  nano mid_recap.sh
+  941  ./mid_recap.sh 11
+  942  nano mid_recap.sh
+  943  ./mid_recap.sh 11
+  944  nano mid_recap.sh
+  945  ./mid_recap.sh 11
+  946  ls
+  947  nano mid_recap.sh
+  948  ./mid_recap.sh 11
+  949  nano mid_recap.sh
+  950  ls
+  951  nano names.txt
+  952  ./mid_recap.sh 11
+  953  nano names.txt
+  954  ./mid_recap.sh 11
+  955  nano names.txt
+  956  nano mid_recap.sh
+  957  ./mid_recap.sh 11
+  958  nano mid_recap.sh
+  959  ./mid_recap.sh 11
+  960  nano mid_recap.sh
+  961  ./mid_recap.sh 11
+  962  nano mid_recap.sh
+  963  ./mid_recap.sh 11
+  964  ls
+  965  nano count_files_dirs.sh
+  966  chmod +x count_files_dirs.sh
+  967  ./count_files_dirs.sh
+  968  chmod +x count_files_dirs.sh
+  969  nano count_files_dirs.sh
+  970  ./count_files_dirs.sh
+  971  nano remove_duplicate_lines_file.sh
+  972  nano names.txt
+  973  chmod +x remove_duplicate_lines_file.sh
+  974  ./remove_duplicate_lines_file.sh
+  975  ls
+  976  nano remove_duplicate_lines_file.sh
+  977  cat sorted_lines.txt
+  978  nano remove_duplicate_lines_file.sh
+  979  ./remove_duplicate_lines_file.sh
+  980  nano remove_duplicate_lines_file.sh
+  981  ./remove_duplicate_lines_file.sh
+  982  nano remove_duplicate_lines_file.sh
+  983  ./remove_duplicate_lines_file.sh
+  984  ls
+  985  cat names.txt
+  986  cat names2.txt
+  987  nano remove_duplicate_lines_file.sh
+  988  clear
+  989  nano count_files_dirs.sh
+  990  ./count_files_dirs.sh
+  991  ls
+  992  nano count_files_dirs.sh
+  993  nano remove_duplicate_lines_file.sh
+  994  clear
+  995  ls
+  996  id
+  997  id kali
+  998  id root
+  999  id --help
+ 1000  id -u
+ 1001  id -u root 
+ 1002  id -u kali
+ 1003  clear
+ 1004  ls
+ 1005  clear
+ 1006  nano sys_maintenance.sh
+ 1007  chmod +x sys_maintenance.sh
+ 1008  ./sys_maintenance.sh
+ 1009  chmod +x sys_maintenance.sh
+ 1010  nano sys_maintenance.sh
+ 1011  ls
+ 1012  nano lamp_installer.sh
+ 1013  ls
+ 1014  nano lamp_installer.sh
+ 1015  ls
+ 1016  hisory
+ 1017  history
+ 1018  cd /usr/lib/cgi-bin
+ 1019  ls
+ 1020  sudo nano demo.sh
+ 1021  sudo service apache2 restart
+ 1022  sudo nano demo.sh
+ 1023  cd ~
+ 1024  ls
+ 1025  cd shell_scripts
+ 1026  ls
+ 1027  echo "Current Process Identifier : $$"
+ 1028  apt search npm
+ 1029  sudo apt-get install npm
+ 1030  sudo dpkg --configure -a
+ 1031  sudo apt-get install npm
+ 1032  curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash
+ 1033  cd ../
+ 1034  ls
+ 1035  cd ../../
+ 1036  ls
+ 1037  cd var
+ 1038  cd www
+ 1039  ls
+ 1040  cd html
+ 1041  ls
+ 1042  nano index.html
+ 1043  sudo service apache2 status 
+ 1044  ls
+ 1045  sudo -i
+ 1046  cat /etc/resolvconf/resolv.conf.d/head
+ 1047  cd /etc
+ 1048  ls
+ 1049  cd resolconfig
+ 1050  nano resolv.conf
+ 1051  alias
+ 1052  sudo dpkg -i Webex.deb
+ 1053  sudo apt-get update && upgrade -y 
+ 1054  sudo apt-get install apache2
+ 1055  sudo ufw app list
+ 1056  sudo ufw app info "Apache Full"
+ 1057  sudo ufw app info "Apache Secure"
+ 1058  sudo ufw app info "Apache"
+ 1059  sudo ufw allow "Apache Full"
+ 1060  sudo apt-get install mysql-server mysql-client mysql
+ 1061  mysql_secure_installation
+ 1062  sudo mysql_secure_installation
+ 1063  sudo mysql
+ 1064  sudo apt-get install php php-mysql libapache2-mod-php
+ 1065  which apache
+ 1066  which apache2
+ 1067  apt search php
+ 1068  apt search php- | less
+ 1069  apt show xine-ui
+ 1070  sudo mkdir /var/www/example.com
+ 1071  ls -ltr
+ 1072  cd /var/www/
+ 1073  ls -ltr
+ 1074  sudo chown -R example.com:example.com /example.com
+ 1075  sudo chmod 755 example.com
+ 1076  ls -ltr
+ 1077  cd example.com
+ 1078  nano index.html
+ 1079  sudo nano index.html
+ 1080  cd ~
+ 1081  ls
+ 1082  cd ../../
+ 1083  ls
+ 1084  cd /etc/apache2/
+ 1085  ls
+ 1086  cd sites-available
+ 1087  ls
+ 1088  nano example.com.conf
+ 1089  sudo nano example.com.conf
+ 1090  nano example.com.conf
+ 1091  cd ~
+ 1092  sudo a2ensite example.com.conf
+ 1093  sudo a2dissite 000-default.conf
+ 1094  sudo apache2ctl configtest
+ 1095  sudo nano /etc/apache2/sites-enabled/example.com.conf
+ 1096  sudo apache2ctl configtest
+ 1097  sudo a2ensite example.com.conf
+ 1098  sudo apache2ctl configtest
+ 1099  sudo systemctl restart apache2
+ 1100  sudo systemctl status apache2
+ 1101  history
+ 1102  ls
+ 1103  cd shell_scripts
+ 1104  history > history.txt
