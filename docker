@@ -1,0 +1,73 @@
+sudo apt  install docker.io 
+ 1476  cd ~
+ 1477  docker pull centos
+ 1478  sudo docker pull centos
+ 1479  docker run -d -t --name tuhin centos
+ 1480  sudo docker run -d -t --name tuhin centos
+ 1481  sudo docker ps
+ 1482  sudo docker exec -it tuhin bash
+ 1483  clear
+ 1484  cd shell_scripts
+ 1485  nano containers.txt
+ 1486  sudo docker image ls
+ 1487  clear
+ 1488  docker pull kalilinux/kali-rolling
+ 1489  sudo docker pull kalilinux/kali-rolling
+ 1490  sudo docker run -d -t  --name kali_linux_docker kalilinux/kali-rolling
+ 1491  sudo docker ps
+ 1492  sudo docker exec -it kali_linux_docker bash
+ 1493  cd shell_script
+ 1494  ls
+ 1495  cd shell_scripts
+ 1496  ls
+ 1497  nano containers.txt
+ 1498  sudo docker exec -it kali_linux_docker bash
+ 1499  nano containers.txt
+ 1500  clear
+ 1501  sudo apt update
+ 1502  sudo apt upgrade
+ 1503  sudo apt-get install docker 
+ 1504  sudo apt  install docker.io 
+ 1505  sudo docker pull nginx
+ 1506  sudo docker run -d -t --name nginx_python nginx
+ 1507  sudo docker ps
+ 1508  docker exec -it kali_linux_docker bash
+ 1509  sudo docker exec -it kali_linux_docker bash
+ 1510  uname
+ 1511  whoami
+ 1512  sudo docker pull centos
+ 1513  sudo docker run -d -t --name centos_demo centos
+ 1514  sudo docker ps
+ 1515  sudo docker exec -it centos_demo /bin/bash
+ 1516  sudo docker ps
+ 1517  docker run de9e07c07048
+ 1518  sudo docker run de9e07c07048
+ 1519  mkdir DockerFile
+ 1520  cd DockerFile
+ 1521  nano DockerFile
+ 1522  ls
+ 1523  sudo docker build DockerFile -t custom:tuhin
+ 1524  sudo docker build -t tuhin1:custom DockerFile 
+ 1525  sudo docker build -t tuhin1:custom ./DockerFile 
+ 1526  sudo docker build DockerFile 
+ 1527  sudo docker build -t tuhin1:custom
+ 1528  sudo docker build -t tuhin1:custom -f DockerFile
+ 1529  sudo docker ps
+ 1530  ls
+ 1531  sudo docker build -t tuhin1:custom - < DockerFile
+ 1532  docker images
+ 1533  sudo docker images
+ 1534  sudo docker run 358137462969
+ 1535  cd ~
+ 1536  clear
+ 1537  mkdir DockerFile
+ 1538  cd DockerFile
+ 1539  nano DockerFile
+ 1540  ls
+ 1541  sudo docker build -t tuhin2:demo - < DockerFile
+ 1542  sudo docker images
+ 1543  nano DockerFile
+ 1544  sudo docker build -t tuhin2:demo - < DockerFile
+ 1545  sudo docker images
+ 1546  sudo docker run 31abff99d992
+ 1547  history
